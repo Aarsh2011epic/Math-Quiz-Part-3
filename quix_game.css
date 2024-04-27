@@ -1,0 +1,18 @@
+#output{
+        background: white;
+        border-radius: 10px;
+        border-top: 10px solid rebeccapurple;
+        padding: 10px;
+        float: none;
+        text-align: left;
+}
+body{
+    background-color: powderblue;
+}
+.QuestionUser{
+    width: 85%;
+    height: 50px;
+}
+#send{
+    width: 100px;
+}
